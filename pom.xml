@@ -9,7 +9,7 @@
 
 	<groupId>org.webjars</groupId>
 	<artifactId>regression-js</artifactId>
-	<version>1.3.0</version>
+	<version>1.3.1-SNAPSHOT</version>
 	<name>regression-js</name>
 	<description>Webjar for regression-js</description>
 	<url>http://webjars.org</url>
@@ -41,7 +41,7 @@
 		<url>http://github.com/webjars/regression-js</url>
 		<connection>scm:git:https://github.com/webjars/regression-js.git</connection>
 		<developerConnection>scm:git:https://github.com/webjars/regression-js.git</developerConnection>
-		<tag>regression-js-1.3.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<build>
